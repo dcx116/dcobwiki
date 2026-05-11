@@ -8,7 +8,7 @@ description: We’re on a journey to advance and democratize artificial intellig
 tags:
   - clippings
 daitype: model
-daimodeltype:
+daimodeltype: lora
 ---
 ## LTX2.3-ICEdit-Insight
 
