@@ -42,11 +42,11 @@ Project links: [GitHub project](https://github.com/Valiant-Cat/LTX2-ICEdit-Insig
 
 ## 🎬 Showcase
 
-| **Video Restoration** | **Video HD Enhancement** |
-| --- | --- |
-| ![Video restoration preview](https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/output_004.webp) | ![Video HD enhancement preview](https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/%E8%A7%86%E9%A2%91%E9%AB%98%E6%B8%85%E5%AF%B9%E6%AF%94%E6%95%88%E6%9E%9C.webp) |
-| **Watermark Removal** | **Subtitle Removal** |
-| ![Watermark removal preview](https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/%E5%8E%BB%E6%B0%B4%E5%8D%B0%E5%AF%B9%E6%AF%94%E6%95%88%E6%9E%9C.webp) | ![Subtitle removal preview](https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/%E5%8E%BB%E5%AD%97%E5%B9%95%E5%AF%B9%E6%AF%94%E6%95%88%E6%9E%9C.webp) |
+| **Video Restoration**                                                                                                                                                              | **Video HD Enhancement**                                                                                                                                                                       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Video restoration preview](https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/output_004.webp)                                                      | ![Video HD enhancement preview](https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/%E8%A7%86%E9%A2%91%E9%AB%98%E6%B8%85%E5%AF%B9%E6%AF%94%E6%95%88%E6%9E%9C.webp) |
+| **Watermark Removal**                                                                                                                                                              | **Subtitle Removal**                                                                                                                                                                           |
+| ![Watermark removal preview](https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/%E5%8E%BB%E6%B0%B4%E5%8D%B0%E5%AF%B9%E6%AF%94%E6%95%88%E6%9E%9C.webp) | ![Subtitle removal preview](https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/%E5%8E%BB%E5%AD%97%E5%B9%95%E5%AF%B9%E6%AF%94%E6%95%88%E6%9E%9C.webp)              |
 
 | **Video Restoration** | **Video HD Enhancement** |
 | --- | --- |
