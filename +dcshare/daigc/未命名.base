@@ -8,3 +8,9 @@ views:
       - file.name
       - source
       - file.folder
+      - daibasemodel
+      - daimodeltype
+      - daitype
+    sort:
+      - property: daibasemodel
+        direction: ASC
