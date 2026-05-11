@@ -4,3 +4,6 @@ views:
     filters:
       and:
         - daitype == "model"
+    order:
+      - file.name
+      - source
