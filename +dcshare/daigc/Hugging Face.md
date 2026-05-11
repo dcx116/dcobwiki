@@ -9,6 +9,7 @@ tags:
   - clippings
 daitype: model
 daimodeltype: lora
+daibasemodel: LTX2.3
 ---
 ## LTX2.3-ICEdit-Insight
 
