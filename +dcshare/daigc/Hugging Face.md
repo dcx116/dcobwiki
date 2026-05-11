@@ -1,12 +1,14 @@
 ---
-title: "Hugging Face"
-source: "https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight"
+title: Hugging Face
+source: https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight
 author:
 published:
 created: 2026-05-11
-description: "We’re on a journey to advance and democratize artificial intelligence through open source and open science."
+description: We’re on a journey to advance and democratize artificial intelligence through open source and open science.
 tags:
-  - "clippings"
+  - clippings
+daitype: model
+daimodeltype:
 ---
 ## LTX2.3-ICEdit-Insight
 
