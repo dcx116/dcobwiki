@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"0c2302479caed50c","type":"text","text":"三国人物唱歌","x":-940,"y":-260,"width":250,"height":50},
+		{"id":"ba758531f5880f0f","type":"text","text":"对歌曲人曲分离","x":-520,"y":-320,"width":176,"height":60},
+		{"id":"27e8b6519baaeabb","type":"text","text":"剪映和urvc都可以实现\n[Release v5.6 - UVR GUI · Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui/releases/tag/v5.6)","x":-520,"y":-500,"width":259,"height":60},
+		{"id":"d34c72e57daeb485","type":"text","text":"提取三国视图中要唱歌主角片段，两段使用可镜像倒放衔接","x":-520,"y":-180,"width":250,"height":100},
+		{"id":"d4e2546bbec2aa0b","type":"text","text":"把视频和音频按每段唱歌与主角视频对应进行剪辑导出","x":-160,"y":-160,"width":250,"height":80},
+		{"id":"f21b4ce5444f4909","type":"text","text":"使用即梦或heygem进行对口型","x":-120,"y":5,"width":250,"height":60},
+		{"id":"0b0c4583874b0263","type":"text","text":"使用RVC对音乐与主角模型进行转换（三国人物声音模型）","x":-511,"y":5,"width":250,"height":87},
+		{"id":"9ca1682652ba148a","type":"text","text":"男转女音，变调加大","x":-511,"y":180,"width":250,"height":60},
+		{"id":"664281ebc67d6013","type":"link","url":"https://www.bilibili.com/video/BV1kLMAzEEAC/?spm_id_from=333.337.search-card.all.click&vd_source=c6c18c9a36c933c9af57fe1fe7e1ea7a","x":-1320,"y":-867,"width":670,"height":397,"color":"4"},
+		{"id":"5fa48ef811478796","x":308,"y":-315,"width":250,"height":60,"type":"text","text":"把音视频合并"},
+		{"id":"f7b8fb3aeda017de","x":-178,"y":-345,"width":250,"height":60,"type":"text","text":"只保留背景音，人声拿去克隆了"},
+		{"id":"788fb0d6c932a73a","x":646,"y":-312,"width":96,"height":60,"type":"text","text":"导出"}
+	],
+	"edges":[
+		{"id":"fb1a9858f3303aad","fromNode":"0c2302479caed50c","fromSide":"right","toNode":"d34c72e57daeb485","toSide":"left"},
+		{"id":"36f494e43d1960d2","fromNode":"0c2302479caed50c","fromSide":"right","toNode":"ba758531f5880f0f","toSide":"left"},
+		{"id":"5c8da7be3c4d8332","fromNode":"ba758531f5880f0f","fromSide":"top","toNode":"27e8b6519baaeabb","toSide":"bottom"},
+		{"id":"aef77fa7e9bfa0a4","fromNode":"d34c72e57daeb485","fromSide":"right","toNode":"d4e2546bbec2aa0b","toSide":"left"},
+		{"id":"6d9a756f503f8c86","fromNode":"0c2302479caed50c","fromSide":"right","toNode":"0b0c4583874b0263","toSide":"left","label":"只导出音频"},
+		{"id":"dc579bdbc849fbc1","fromNode":"0b0c4583874b0263","fromSide":"right","toNode":"f21b4ce5444f4909","toSide":"left"},
+		{"id":"99fc7b3b9a9dc70e","fromNode":"0b0c4583874b0263","fromSide":"bottom","toNode":"9ca1682652ba148a","toSide":"top"},
+		{"id":"c0b2e8b28bd450c2","fromNode":"0c2302479caed50c","fromSide":"top","toNode":"664281ebc67d6013","toSide":"bottom"},
+		{"id":"e4cfe942fe19cf5f","fromNode":"f21b4ce5444f4909","fromSide":"right","toNode":"5fa48ef811478796","toSide":"left"},
+		{"id":"234d91f50b9ad2c9","fromNode":"ba758531f5880f0f","fromSide":"right","toNode":"f7b8fb3aeda017de","toSide":"left"},
+		{"id":"b31c7eb2404629e3","fromNode":"f7b8fb3aeda017de","fromSide":"right","toNode":"5fa48ef811478796","toSide":"left"},
+		{"id":"6816df00cefce50a","fromNode":"d4e2546bbec2aa0b","fromSide":"right","toNode":"5fa48ef811478796","toSide":"left"},
+		{"id":"124d7a59b8d4e9d9","fromNode":"5fa48ef811478796","fromSide":"right","toNode":"788fb0d6c932a73a","toSide":"left"}
+	]
+}

@@ -1,0 +1,17 @@
+views:
+  - type: table
+    name: 表格
+    order:
+      - file.name
+      - file.backlinks
+      - file.basename
+      - file.ctime
+      - file.embeds
+      - source
+      - file.links
+      - cbd
+    sort:
+      - property: file.links
+        direction: DESC
+  - type: cards
+    name: 视图

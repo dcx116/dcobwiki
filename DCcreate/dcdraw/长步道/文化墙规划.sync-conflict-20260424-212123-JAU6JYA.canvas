@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"72ccabcf4f7799ac","type":"file","file":"DCcreate/dcdraw/长步道/文化墙.md","x":120,"y":-960,"width":400,"height":400},
+		{"id":"45a3f8d2c7df277f","type":"text","text":"在","x":-360,"y":-520,"width":250,"height":60},
+		{"id":"53108b8b301623ef","type":"text","text":"杨百万","x":-840,"y":-485,"width":250,"height":50}
+	],
+	"edges":[
+		{"id":"96b499b290a2308b","fromNode":"45a3f8d2c7df277f","fromSide":"left","toNode":"53108b8b301623ef","toSide":"right"},
+		{"id":"95d96e85000f61cd","fromNode":"45a3f8d2c7df277f","fromSide":"right","toNode":"72ccabcf4f7799ac","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d0ef63d80baa9e7e","type":"file","file":"Webclip/Untitled.md","x":-1520,"y":-640,"width":400,"height":400},
+		{"id":"03938c393ac350ed","type":"file","file":"Webclip/安卓小红书开发者模式意外泄漏 - 小众软件 1.md","x":-980,"y":-893,"width":400,"height":400},
+		{"id":"2a078aa12c48a80c","type":"text","text":"","x":-420,"y":-420,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"edf361f0bae14246","fromNode":"03938c393ac350ed","fromSide":"left","toNode":"d0ef63d80baa9e7e","toSide":"right","color":"3"},
+		{"id":"ed690cecfb4508e4","fromNode":"03938c393ac350ed","fromSide":"right","toNode":"2a078aa12c48a80c","toSide":"left"}
+	]
+}

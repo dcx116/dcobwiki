@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"e2967ad53fee71e0","x":-840,"y":-360,"width":250,"height":60,"color":"2","type":"text","text":"企业文化"},
+		{"id":"d12ceb963393218f","type":"text","text":"企业文化","x":-420,"y":-120,"width":250,"height":60,"color":"2"}
+	],
+	"edges":[
+		{"id":"91112b747e179a4a","fromNode":"e2967ad53fee71e0","fromSide":"right","toNode":"d12ceb963393218f","toSide":"left"}
+	]
+}

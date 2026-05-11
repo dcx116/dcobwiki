@@ -1,0 +1,19 @@
+views:
+  - type: table
+    name: 表格
+    groupBy:
+      property: file.backlinks
+      direction: ASC
+    order:
+      - file.name
+      - file.basename
+      - file.backlinks
+      - file.ctime
+      - file.embeds
+    summaries:
+      file.embeds: Filled
+  - type: cards
+    name: 视图
+    imageAspectRatio: 1
+    cardSize: 280
+    image: note.aliases

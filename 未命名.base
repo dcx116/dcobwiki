@@ -1,0 +1,20 @@
+formulas:
+  未命名: ""
+views:
+  - type: table
+    name: 表格
+    order:
+      - file.name
+      - file.backlinks
+      - file.basename
+      - file.ctime
+      - file.embeds
+      - source
+      - file.links
+      - cbd
+      - formula.未命名
+    sort:
+      - property: file.links
+        direction: DESC
+  - type: cards
+    name: 视图

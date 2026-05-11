@@ -1,0 +1,35 @@
+formulas:
+  未命名: ""
+views:
+  - type: table
+    name: 表格
+  - type: table
+    name: 视图
+    order:
+      - file.name
+      - file.backlinks
+      - file.basename
+      - file.ctime
+      - file.embeds
+    sort:
+      - property: file.embeds
+        direction: DESC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: 视图 2
+    filters:
+      and:
+        - file.name.contains("未命")
+    order:
+      - file.name
+      - file.basename
+      - file.mtime
+      - formula.未命名
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: formula.未命名
+        direction: DESC
+      - property: file.basename
+        direction: DESC

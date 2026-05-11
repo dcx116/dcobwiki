@@ -1,0 +1,7 @@
+views:
+  - type: table
+    name: 表格
+  - type: cards
+    name: 视图
+    imageAspectRatio: 1
+    image: file.file
