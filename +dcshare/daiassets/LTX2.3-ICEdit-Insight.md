@@ -11,6 +11,7 @@ daitype: model
 daimodeltype: lora
 daibasemodel: LTX2.3
 daimodelapp: 视频
+封面:
 ---
 ## LTX2.3-ICEdit-Insight
 
