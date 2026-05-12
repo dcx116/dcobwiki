@@ -12,6 +12,7 @@ daimodeltype: lora
 daibasemodel: LTX2.3
 模型应用: 视频
 封面: https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/output_004.webp
+下载地址:
 ---
 ## LTX2.3-ICEdit-Insight
 
@@ -34,13 +35,13 @@ Project links: [GitHub project](https://github.com/Valiant-Cat/LTX2-ICEdit-Insig
 
 ## 📦 Model Files
 
-| File | Purpose |
-| --- | --- |
-| `ltx-2.3-edit-insight-dev-fp8.safetensors` | Unified Insight base checkpoint for LTX-2.3 editing |
-| `ltx2.3-video-restoration-general.safetensors` | Video restoration, artifact cleanup, blur and noise recovery |
-| `ltx2.3-ic-video-upscale-general.safetensors` | Video HD enhancement, super-resolution, and detail recovery |
-| `ltx2.3-ic-watermark-remove-general.safetensors` | Watermark removal and occlusion-aware reconstruction |
-| `ltx2.3-ic-subtitles-remove-general.safetensors` | Subtitle removal and text overlay cleanup |
+| File                                             | Purpose                                                      |
+| ------------------------------------------------ | ------------------------------------------------------------ |
+| `ltx-2.3-edit-insight-dev-fp8.safetensors`       | Unified Insight base checkpoint for LTX-2.3 editing          |
+| `ltx2.3-video-restoration-general.safetensors`   | Video restoration, artifact cleanup, blur and noise recovery |
+| `ltx2.3-ic-video-upscale-general.safetensors`    | Video HD enhancement, super-resolution, and detail recovery  |
+| `ltx2.3-ic-watermark-remove-general.safetensors` | Watermark removal and occlusion-aware reconstruction         |
+| `ltx2.3-ic-subtitles-remove-general.safetensors` | Subtitle removal and text overlay cleanup                    |
 
 ## 🎬 Showcase
 
