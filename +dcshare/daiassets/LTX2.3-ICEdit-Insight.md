@@ -10,7 +10,6 @@ tags:
 daitype: model
 daimodeltype: lora
 daibasemodel: LTX2.3
-封面:
 模型应用: 视频
 ---
 ## LTX2.3-ICEdit-Insight
