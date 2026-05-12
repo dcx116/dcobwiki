@@ -15,6 +15,7 @@ daibasemodel: LTX2.3
 下载地址: https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/tree/main
 obsidianUIMode: preview
 cssclasses:
+  - no-properties
 ---
 ## LTX2.3-ICEdit-Insight
 
