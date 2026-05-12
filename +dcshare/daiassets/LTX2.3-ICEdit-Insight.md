@@ -15,7 +15,6 @@ tags:
 模型作用: 去除字幕
 封面: https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/output_004.webp
 下载地址: https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/tree/main
-cssclasses:
 ---
 ## LTX2.3-ICEdit-Insight
 
