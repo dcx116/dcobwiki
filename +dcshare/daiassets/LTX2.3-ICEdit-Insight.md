@@ -15,9 +15,9 @@ daibasemodel: LTX2.3
 ---
 ## LTX2.3-ICEdit-Insight
 
-| ![Video restoration preview](https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/output_004.webp) | ![Video HD enhancement preview](https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/%E8%A7%86%E9%A2%91%E9%AB%98%E6%B8%85%E5%AF%B9%E6%AF%94%E6%95%88%E6%9E%9C.webp) |
-| --- | --- |
-| ![Watermark removal preview](https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/%E5%8E%BB%E6%B0%B4%E5%8D%B0%E5%AF%B9%E6%AF%94%E6%95%88%E6%9E%9C.webp) | ![Subtitle removal preview](https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/%E5%8E%BB%E5%AD%97%E5%B9%95%E5%AF%B9%E6%AF%94%E6%95%88%E6%9E%9C.webp) |
+| ![Video restoration preview](https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/output_004.webp)                                                      | ![Video HD enhancement preview](https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/%E8%A7%86%E9%A2%91%E9%AB%98%E6%B8%85%E5%AF%B9%E6%AF%94%E6%95%88%E6%9E%9C.webp) |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Watermark removal preview](https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/%E5%8E%BB%E6%B0%B4%E5%8D%B0%E5%AF%B9%E6%AF%94%E6%95%88%E6%9E%9C.webp) | ![Subtitle removal preview](https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/%E5%8E%BB%E5%AD%97%E5%B9%95%E5%AF%B9%E6%AF%94%E6%95%88%E6%9E%9C.webp)              |
 
 **LTX2.3-ICEdit-Insight** is a task-aware video restoration and editing model family developed by **JoyFox Lab**, built on top of the **LTX-2.3 DiT-based audio-video foundation model**.
 
