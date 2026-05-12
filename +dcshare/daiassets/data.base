@@ -22,6 +22,9 @@ views:
         direction: ASC
   - type: cards
     name: 视图
+    filters:
+      and:
+        - file.folder == "+dcshare/daiassets"
     order:
       - file.name
       - daimodeltype
