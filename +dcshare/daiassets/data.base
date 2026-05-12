@@ -12,5 +12,7 @@ views:
       - daimodeltype
       - daitype
     sort:
+      - property: daitype
+        direction: ASC
       - property: daibasemodel
         direction: ASC
