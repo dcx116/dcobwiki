@@ -4,6 +4,7 @@ views:
     filters:
       and:
         - file.folder == "+dcshare/daiassets"
+        - file.name != "data"
     order:
       - file.name
       - daimodeltype
