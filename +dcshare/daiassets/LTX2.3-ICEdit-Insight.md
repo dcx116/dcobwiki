@@ -12,9 +12,9 @@ daitype: model
 daimodeltype: lora
 daibasemodel: LTX2.3
 模型应用: 视频
+模型作用: 去除字幕
 封面: https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/output_004.webp
 下载地址: https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/tree/main
-模型作用:
 ---
 ## LTX2.3-ICEdit-Insight
 
