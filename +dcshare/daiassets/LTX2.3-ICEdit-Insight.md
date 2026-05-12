@@ -11,7 +11,7 @@ daitype: model
 daimodeltype: lora
 daibasemodel: LTX2.3
 模型应用: 视频
-ff: obsidian://open?vault=DC&file=%2Bdcshare%2Fdaiassets%2F%E9%99%84%E4%BB%B6%2FPasted%20image%2020260512110420.png
+ff: +dcshare/daiassets/附件/Pasted image 20260512110420.png
 ---
 ![[Pasted image 20260512110420.png]]![[Pasted image 20260512110436.png]]
 ## LTX2.3-ICEdit-Insight
