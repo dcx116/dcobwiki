@@ -8,7 +8,7 @@ created: 2026-05-11
 description: We’re on a journey to advance and democratize artificial intelligence through open source and open science.
 tags:
   - clippings
-daitype: model
+模型类型: model
 daimodeltype: lora
 daibasemodel: LTX2.3
 模型应用: 视频
