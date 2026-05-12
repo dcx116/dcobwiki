@@ -10,7 +10,6 @@ views:
       - daibasemodel
       - daitype
       - 模型应用
-      - 封面
     cardSize: 250
     imageAspectRatio: 1.2
-    image: note.ff
+    image: note.封面
