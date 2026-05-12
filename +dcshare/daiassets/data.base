@@ -11,6 +11,8 @@ views:
       - daibasemodel
       - daitype
       - 模型应用
+      - 模型作用
+      - 下载地址
     cardSize: 250
     imageAspectRatio: 1.2
     image: note.封面
