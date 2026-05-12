@@ -11,7 +11,7 @@ daitype: model
 daimodeltype: lora
 daibasemodel: LTX2.3
 模型应用: 视频
-ff: +dcshare/daiassets/附件/Pasted image 20260512110420.png
+封面: +dcshare/daiassets/附件/Pasted image 20260512110420.png
 ---
 ![[Pasted image 20260512110420.png]]![[Pasted image 20260512110436.png]]
 ## LTX2.3-ICEdit-Insight
