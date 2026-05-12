@@ -1,6 +1,6 @@
 views:
   - type: cards
-    name: 视图
+    name: model
     filters:
       and:
         - file.folder == "+dcshare/daiassets"
