@@ -14,9 +14,6 @@ daibasemodel: LTX2.3
 模型应用: 视频
 封面: https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/output_004.webp
 下载地址: https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/tree/main
-obsidianUIMode: preview
-cssclasses:
-  - no-properties
 ---
 ## LTX2.3-ICEdit-Insight
 
