@@ -17,3 +17,5 @@ views:
         direction: ASC
       - property: daibasemodel
         direction: ASC
+  - type: cards
+    name: 视图
