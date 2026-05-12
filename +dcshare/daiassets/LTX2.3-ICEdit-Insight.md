@@ -15,7 +15,6 @@ daibasemodel: LTX2.3
 下载地址: https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/tree/main
 ---
 
-
 ## LTX2.3-ICEdit-Insight
 
 | ![Video restoration preview](https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/output_004.webp)                                                      | ![Video HD enhancement preview](https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/%E8%A7%86%E9%A2%91%E9%AB%98%E6%B8%85%E5%AF%B9%E6%AF%94%E6%95%88%E6%9E%9C.webp) |
