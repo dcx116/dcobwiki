@@ -11,7 +11,7 @@ daitype: model
 daimodeltype: lora
 daibasemodel: LTX2.3
 模型应用: 视频
-封面: +dcshare/daiassets/附件/Pasted image 20260512110420.png
+封面: https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/output_004.webp
 ---
 ## LTX2.3-ICEdit-Insight
 
