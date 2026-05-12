@@ -8,9 +8,9 @@ created: 2026-05-11
 description: We’re on a journey to advance and democratize artificial intelligence through open source and open science.
 tags:
   - clippings
-模型类型: model
-daimodeltype: lora
-daibasemodel: LTX2.3
+文件类型: model
+模型类型: lora
+模型基底: LTX2.3
 模型应用: 视频
 模型作用: 去除字幕
 封面: https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/output_004.webp
