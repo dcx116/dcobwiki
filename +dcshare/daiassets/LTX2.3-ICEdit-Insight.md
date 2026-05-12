@@ -12,7 +12,7 @@ daimodeltype: lora
 daibasemodel: LTX2.3
 模型应用: 视频
 ---
-![[Pasted image 20260512110405.png]]
+![[Pasted image 20260512110420.png]]
 ## LTX2.3-ICEdit-Insight
 
 | ![Video restoration preview](https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/output_004.webp)                                                      | ![Video HD enhancement preview](https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/%E8%A7%86%E9%A2%91%E9%AB%98%E6%B8%85%E5%AF%B9%E6%AF%94%E6%95%88%E6%9E%9C.webp) |
