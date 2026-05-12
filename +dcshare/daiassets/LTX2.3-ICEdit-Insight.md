@@ -1,4 +1,5 @@
 ---
+id: 84f4f165-de59-4b24-b3a9-b1837863ae37
 title: Hugging Face
 source: https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight
 author:
