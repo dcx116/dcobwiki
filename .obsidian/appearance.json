@@ -3,6 +3,7 @@
   "showRibbon": true,
   "nativeMenus": false,
   "enabledCssSnippets": [
-    "minimal-popout"
+    "minimal-popout",
+    "hide-properties-popout"
   ]
 }
