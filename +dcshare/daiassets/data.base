@@ -22,3 +22,10 @@ views:
         direction: ASC
   - type: cards
     name: 视图
+    order:
+      - file.name
+      - daimodeltype
+      - daibasemodel
+      - daitype
+      - 模型应用
+      - 封面
