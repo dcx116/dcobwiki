@@ -14,5 +14,5 @@ views:
       - 模型作用
       - 下载地址
     cardSize: 250
-    imageAspectRatio: 1.2
+    imageAspectRatio: 0.75
     image: note.封面
