@@ -12,7 +12,10 @@ views:
       - daimodeltype
       - daitype
       - daimodelapp
+      - 模型应用
     sort:
+      - property: 模型应用
+        direction: ASC
       - property: daitype
         direction: ASC
       - property: daibasemodel
