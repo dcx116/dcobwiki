@@ -34,3 +34,4 @@ views:
       - 封面
     cardSize: 250
     imageAspectRatio: 1.2
+    image: file.file
