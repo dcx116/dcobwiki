@@ -1,25 +1,4 @@
 views:
-  - type: table
-    name: 表格
-    filters:
-      and:
-        - daitype == "model"
-    order:
-      - file.name
-      - source
-      - file.folder
-      - daibasemodel
-      - daimodeltype
-      - daitype
-      - daimodelapp
-      - 模型应用
-    sort:
-      - property: 模型应用
-        direction: ASC
-      - property: daitype
-        direction: ASC
-      - property: daibasemodel
-        direction: ASC
   - type: cards
     name: 视图
     filters:
