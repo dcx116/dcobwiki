@@ -32,3 +32,5 @@ views:
       - daitype
       - 模型应用
       - 封面
+    cardSize: 250
+    imageAspectRatio: 1.2
