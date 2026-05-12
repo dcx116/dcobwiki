@@ -1,6 +1,6 @@
 {
   "accentColor": "#764ade",
-  "showRibbon": true,
+  "showRibbon": false,
   "nativeMenus": false,
   "enabledCssSnippets": [
     "minimal-popout",
