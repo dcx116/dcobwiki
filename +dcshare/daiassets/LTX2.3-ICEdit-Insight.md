@@ -16,6 +16,7 @@ daibasemodel: LTX2.3
 封面: +dcshare/daiassets/附件/595f4276320acc346f554e87bfe6bbd1_MD5.webp
 下载地址: https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/tree/main
 cssclasses:
+file:
 ---
 ## LTX2.3-ICEdit-Insight
 
