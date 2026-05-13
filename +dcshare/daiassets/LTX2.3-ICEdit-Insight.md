@@ -19,9 +19,9 @@ cssclasses:
 ---
 ## LTX2.3-ICEdit-Insight
 
-| ![[+dcshare/daiassets/附件/595f4276320acc346f554e87bfe6bbd1_MD5.webp]]                                                      | ![[+dcshare/daiassets/附件/b6ac81b544a6dd6a646d6253645cc58f_MD5.webp]] |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![[+dcshare/daiassets/附件/b7b7bc666eea228b09975e3a24ae888c_MD5.webp]] | ![[+dcshare/daiassets/附件/ff18e0cba3ef0ba1900a0cee2dc0a031_MD5.webp]]              |
+| ![[+dcshare/daiassets/附件/595f4276320acc346f554e87bfe6bbd1_MD5.webp]] | ![[+dcshare/daiassets/附件/b6ac81b544a6dd6a646d6253645cc58f_MD5.webp]] |
+| -------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| ![[+dcshare/daiassets/附件/b7b7bc666eea228b09975e3a24ae888c_MD5.webp]] | ![[+dcshare/daiassets/附件/ff18e0cba3ef0ba1900a0cee2dc0a031_MD5.webp]] |
 
 **LTX2.3-ICEdit-Insight** is a task-aware video restoration and editing model family developed by **JoyFox Lab**, built on top of the **LTX-2.3 DiT-based audio-video foundation model**.
 
