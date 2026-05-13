@@ -8,19 +8,20 @@ created: 2026-05-11
 description: We’re on a journey to advance and democratize artificial intelligence through open source and open science.
 tags:
   - clippings
-文件类型: model
-模型类型: lora
-模型基底: LTX2.3
+模型类型: model
+daimodeltype: lora
+daibasemodel: LTX2.3
 模型应用: 视频
 模型作用: 去除字幕
 封面: https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/output_004.webp
 下载地址: https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/tree/main
+cssclasses:
 ---
 ## LTX2.3-ICEdit-Insight
 
-| ![[+dcshare/daiassets/附件/595f4276320acc346f554e87bfe6bbd1_MD5.webp]] | ![[+dcshare/daiassets/附件/b6ac81b544a6dd6a646d6253645cc58f_MD5.webp]] |
-| -------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| ![[+dcshare/daiassets/附件/b7b7bc666eea228b09975e3a24ae888c_MD5.webp]] | ![[+dcshare/daiassets/附件/ff18e0cba3ef0ba1900a0cee2dc0a031_MD5.webp]] |
+| ![Video restoration preview](https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/output_004.webp)                                                      | ![Video HD enhancement preview](https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/%E8%A7%86%E9%A2%91%E9%AB%98%E6%B8%85%E5%AF%B9%E6%AF%94%E6%95%88%E6%9E%9C.webp) |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Watermark removal preview](https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/%E5%8E%BB%E6%B0%B4%E5%8D%B0%E5%AF%B9%E6%AF%94%E6%95%88%E6%9E%9C.webp) | ![Subtitle removal preview](https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/%E5%8E%BB%E5%AD%97%E5%B9%95%E5%AF%B9%E6%AF%94%E6%95%88%E6%9E%9C.webp)              |
 
 **LTX2.3-ICEdit-Insight** is a task-aware video restoration and editing model family developed by **JoyFox Lab**, built on top of the **LTX-2.3 DiT-based audio-video foundation model**.
 
@@ -47,17 +48,17 @@ Project links: [GitHub project](https://github.com/Valiant-Cat/LTX2-ICEdit-Insig
 
 ## 🎬 Showcase
 
-| **Video Restoration**                                                | **Video HD Enhancement**                                             |
-| -------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| ![[+dcshare/daiassets/附件/595f4276320acc346f554e87bfe6bbd1_MD5.webp]] | ![[+dcshare/daiassets/附件/b6ac81b544a6dd6a646d6253645cc58f_MD5.webp]] |
-| **Watermark Removal**                                                | **Subtitle Removal**                                                 |
-| ![[+dcshare/daiassets/附件/b7b7bc666eea228b09975e3a24ae888c_MD5.webp]] | ![[+dcshare/daiassets/附件/ff18e0cba3ef0ba1900a0cee2dc0a031_MD5.webp]] |
+| **Video Restoration**                                                                                                                                                              | **Video HD Enhancement**                                                                                                                                                                       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Video restoration preview](https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/output_004.webp)                                                      | ![Video HD enhancement preview](https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/%E8%A7%86%E9%A2%91%E9%AB%98%E6%B8%85%E5%AF%B9%E6%AF%94%E6%95%88%E6%9E%9C.webp) |
+| **Watermark Removal**                                                                                                                                                              | **Subtitle Removal**                                                                                                                                                                           |
+| ![Watermark removal preview](https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/%E5%8E%BB%E6%B0%B4%E5%8D%B0%E5%AF%B9%E6%AF%94%E6%95%88%E6%9E%9C.webp) | ![Subtitle removal preview](https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/%E5%8E%BB%E5%AD%97%E5%B9%95%E5%AF%B9%E6%AF%94%E6%95%88%E6%9E%9C.webp)              |
 
 | **Video Restoration**                                                                                                                                                                          | **Video HD Enhancement**                                                                                                                                                                          |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![[+dcshare/daiassets/附件/87f16e1bd57c6432695c1253a60bbe61_MD5.webp]] | ![[+dcshare/daiassets/附件/8440711c3204e17ec26801201448f899_MD5.webp]] |
+| ![Video restoration preview 2](https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/%E8%A7%86%E9%A2%91%E4%BF%AE%E5%A4%8D%E5%AF%B9%E6%AF%94%E6%95%88%E6%9E%9C2.webp) | ![Video HD enhancement preview 2](https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/%E8%A7%86%E9%A2%91%E9%AB%98%E6%B8%85%E5%AF%B9%E6%AF%94%E6%95%88%E6%9E%9C2.webp) |
 | **Watermark Removal**                                                                                                                                                                          | **Subtitle Removal**                                                                                                                                                                              |
-| ![[+dcshare/daiassets/附件/524a13ec865409ec754b8ac8d01b1a31_MD5.webp]]          | ![[+dcshare/daiassets/附件/9ad4dc3d374abdee5e6d1cad3e282439_MD5.webp]]              |
+| ![Watermark removal preview 2](https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/%E5%8E%BB%E6%B0%B4%E5%8D%B0%E5%AF%B9%E6%AF%94%E6%95%88%E6%9E%9C2.webp)          | ![Subtitle removal preview 2](https://huggingface.co/joyfox/LTX2.3-ICEdit-Insight/resolve/main/assets/effects/%E5%8E%BB%E5%AD%97%E5%B9%95%E5%AF%B9%E6%AF%94%E6%95%88%E6%9E%9C2.webp)              |
 
 ## 🚀 Script Usage
 
