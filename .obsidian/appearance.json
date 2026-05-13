@@ -1,10 +1,5 @@
 {
-  "accentColor": "",
+  "accentColor": "#764ade",
   "showRibbon": true,
-  "nativeMenus": false,
-  "enabledCssSnippets": [
-    "minimal-popout",
-    "hide-properties-popout"
-  ],
-  "showViewHeader": true
+  "nativeMenus": false
 }
